@@ -1,4 +1,4 @@
-pandda="/data/share-2/conor/pandda_gemmi/pandda_gemmi/analyse.py"
+pandda="/data/share-2/conor/code/pandda_gemmi/pandda_gemmi/analyse.py"
 data_dirs="/data/share-2/conor/pandda_inputs/PHIPA"
 cluster_cutoff_distance_multiplier=1.1 
 min_blob_volume=9.0
